@@ -17,10 +17,10 @@ your google cloud account.
    spend more than you wish to.
    ```
 
-2. Go to and enable the [Kubernetes Engine API](https://console.cloud.google.com/apis/api/container.googleapis.com/overview).
-3. Choose a terminal.
+2. Go to [Kubernetes Engine API](https://console.cloud.google.com/apis/api/container.googleapis.com/overview) and enable it by clicking on ENABLE API.
+3. Choose a terminal via one of the following options:
 
-   You can either to use a web based terminal or install and run the required
+   You can either use a web based terminal or install and run the required
    command line interfaces on your own computer's terminal. We recommend
    starting out by using the web based terminal. Choose one set of instructions
    below.
